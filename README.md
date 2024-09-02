@@ -66,6 +66,7 @@ function App() {
 }
 
 export default App;
+```
 #### Customization
   You can easily extend this router by adding new routes, adjusting path matching logic, or integrating with other React libraries.
 ##### Contributing
