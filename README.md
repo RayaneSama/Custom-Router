@@ -29,7 +29,7 @@ To get started with the project, follow these steps:
     npm run dev
     ```
 
-   The application should now be running on [http://localhost:3000](http://localhost:3000).
+   The application should now be running on [http://localhost:3000](http://localhost:5173).
 
 ## Usage
 
